@@ -1,0 +1,90 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>about_us</identify>
+		<hook_position>displayFooterAfter</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>copyright_block</identify>
+		<hook_position>displayBlockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>4</id_posstaticblock>
+		<identify>payment</identify>
+		<hook_position>displayBlockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+<!-- block language configuration -->	
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>About Us</title>
+		<description>
+			 <![CDATA[
+				<div class="about_us">
+				<div class="logo_footer"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/logo_footer.png" alt="" /> </a></div>
+				<div class=" footer-info">
+				<p class="phone">+ (012) 800 456 789</p>
+				<div class="desc_footer">We are a team of designers and developers that create high quality Magento, Prestashop, Opencart.</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Copyright Block</title>
+		<description>
+			 <![CDATA[
+				<div class="copyright col-xs-12 col-sm-12 col-md-6 ">Copyright <i class="icon-copyright"></i> <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Payment</title>
+		<description>
+			 <![CDATA[
+				<div class="payment col-xs-12 col-sm-12 col-md-6"><img src="/posthemes/pos_sneaker/img/cms/payment.png" alt="" /></div>
+			 ]]>
+		</description>
+	</block_language>
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>

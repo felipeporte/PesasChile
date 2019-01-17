@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_contactinfo</name>
+    <displayName><![CDATA[Informaci&oacute;n de contacto]]></displayName>
+    <version><![CDATA[3.1.0]]></version>
+    <description><![CDATA[Te permite mostrar informaci&oacute;n adicional sobre el servicio de atenci&oacute;n al cliente de tu tienda.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

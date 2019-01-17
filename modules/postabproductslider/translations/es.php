@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_69323ffd90bdd3b3c0ac8b16c9665908'] = 'Modulo de producto destacados en home';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_06935560825762bbb2d20a4a3ed69e4f'] = 'Novedades';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_0b0085b315266a8c3bfb9ddba79987e6'] = 'en venta';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_6229b1c0488e884dbe976251efe2ff68'] = 'Más vistos';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_cf8156f1f57a8603cd6b3a28c9c2c61b'] = 'Productos destacados';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_c888438d14855d7d96a2724ee9c306bd'] = 'configuracion de subida';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_f4f70727dc34561dfde1a3c529b6205c'] = 'configuraciones';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_0709dc8c17db4c58e34811ceb5895616'] = 'Mostrar nuevos';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_5eaf9d6688f291ca55e36f408a3b063c'] = 'Mostrar nuevos productos en pagina de inicio';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_00d23a76e43b46dae9ec7aa9dcbebb32'] = 'habilitado';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_b9f5c797ebbf55adccdd8539a65a0241'] = 'deshabilitado';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_5788dbee1bcace887519107832338e0c'] = 'mostrar destacados';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_e8cb42366db3a464295cef3848ea70c9'] = 'mostrar destacados en pagina de inicio';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_5ea51bd6fd9d18add29c36ee1d8d4527'] = 'mostrar mas vistos';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_2bd35c7e8fded7600ffc86ec671ea6ee'] = 'mostrar mas vistos en pagina de inicio';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_25968d75b22908757a12f0504ee8b9d9'] = 'mostrar ventas';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_9546bb7df7a2b4429c0b1a47ef3b9b65'] = 'mostrar ventas en la pagina de inicio';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_b48ab9cf6743c58ba96625df806c6d5c'] = 'producto';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_44877c6aa8e93fa5a91c9361211464fb'] = 'velocidad';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_530f488f7a9800411efc6926ab189708'] = 'flechas';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_6007580caec100573f109290424b87c8'] = 'mostrar paginas';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_93cba07454f06a4a960172bbd6e2a435'] = 'si';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_bafd7322c6e97d25b6299b5d6fe8920b'] = 'no';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_8d662017b3ecc543fe2aa4882f1fe9e3'] = 'siguente/atras';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_f305f0d46c53665e797fdd11476a554b'] = 'mostrar siguente/atras';
+$_MODULE['<{postabproductslider}prestashop>postabproductslider_c9cc8cce247e49bae79f15173ce97354'] = 'guardar';

@@ -1,0 +1,236 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>banner_slide</identify>
+		<hook_position>displayTopColumn</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>banner_top</identify>
+		<hook_position>displayBlockPosition1</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>banner_home</identify>
+		<hook_position>displayBlockPosition2</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+<!-- block lang configuration -->
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Slide</title>
+		<description>
+			 <![CDATA[
+				<div class="container-fluid">
+				<div class="banner-slide">
+				<div class="col">
+				<div class="block-wrapper wrapper1">
+				<div class="text-des">
+				<h3>Free delivery</h3>
+				<p>Free shipping on all order</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper2">
+				<div class="text-des">
+				<h3>Online Support 24/7</h3>
+				<p>Support online 24 hours a day</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper3">
+				<div class="text-des">
+				<h3>Money Return</h3>
+				<p>Back guarantee under 7 days</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper4">
+				<div class="text-des">
+				<h3>Member Discount</h3>
+				<p>Onevery order over $130.00</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper5">
+				<div class="text-des">
+				<h3>SECURE PAYMENT</h3>
+				<p>All cards accepted</p>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Top</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-top">
+				<div class="row">
+				<div class="col-lg-4 col-md-4 col-xs-12 col">
+				<div class="banner-box"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.1.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="banner-box bottom"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.2.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-xs-12 center">
+				<div class="banner-box"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.3.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-xs-12 col">
+				<div class="banner-box"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.4.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="banner-box bottom"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.5.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				</div>
+				</div>
+				<div class="banner-top-bottom">
+				<p class="desc">Today Offer: $20 OFF orders $300 or more with code <span class="text">“Sneaker-002"</span>+ Free shipping on orders over $60! <span class="text2">Offer Details</span></p>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Banner Home</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-home">
+				<div class="banner-box1"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.6.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Banner Slide</title>
+		<description>
+			 <![CDATA[
+				<div class="container-fluid">
+				<div class="banner-slide">
+				<div class="col">
+				<div class="block-wrapper wrapper1">
+				<div class="text-des">
+				<h3>Free delivery</h3>
+				<p>Free shipping on all order</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper2">
+				<div class="text-des">
+				<h3>Online Support 24/7</h3>
+				<p>Support online 24 hours a day</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper3">
+				<div class="text-des">
+				<h3>Money Return</h3>
+				<p>Back guarantee under 7 days</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper4">
+				<div class="text-des">
+				<h3>Member Discount</h3>
+				<p>Onevery order over $130.00</p>
+				</div>
+				</div>
+				</div>
+				<div class="col">
+				<div class="block-wrapper wrapper5">
+				<div class="text-des">
+				<h3>SECURE PAYMENT</h3>
+				<p>All cards accepted</p>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Banner Top</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-top">
+				<div class="row">
+				<div class="col-lg-4 col-md-4 col-xs-12 col">
+				<div class="banner-box"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.1.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="banner-box bottom"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.2.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-xs-12 center">
+				<div class="banner-box"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.3.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col-lg-4 col-md-4 col-xs-12 col">
+				<div class="banner-box"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.4.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="banner-box bottom"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.5.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				</div>
+				</div>
+				<div class="banner-top-bottom">
+				<p class="desc">Today Offer: $20 OFF orders $300 or more with code <span class="text">“Sneaker-002"</span>+ Free shipping on orders over $60! <span class="text2">Offer Details</span></p>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Banner Home</title>
+		<description>
+			 <![CDATA[
+				<div class="banner-home">
+				<div class="banner-box1"><a href="#"><img src="/posthemes/pos_sneaker/img/cms/cms_1.6.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>	
+</pos_static_blocks>

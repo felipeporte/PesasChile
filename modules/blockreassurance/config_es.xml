@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>blockreassurance</name>
+    <displayName><![CDATA[Informaci&oacute;n de seguridad y confianza para el cliente]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[A&ntilde;ade&nbsp;un bloque&nbsp;destinado a ofrecer informaci&oacute;n &uacute;til para tranquilizar al cliente que su tienda es segura y de confianza.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

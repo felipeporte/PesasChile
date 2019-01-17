@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_mainmenu</name>
+    <displayName><![CDATA[Men&uacute; principal]]></displayName>
+    <version><![CDATA[2.1.1]]></version>
+    <description><![CDATA[A&ntilde;ade&nbsp;un nuevo men&uacute;&nbsp;en la parte superior&nbsp;de tu tienda.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

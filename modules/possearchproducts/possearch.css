@@ -1,0 +1,106 @@
+#pos_search_top{
+    margin-top: 14px;
+    display: block;
+	-webkit-box-shadow: 0px 0px 0px 3px rgba(228,228,228,1);
+-moz-box-shadow: 0px 0px 0px 3px rgba(228,228,228,1);
+box-shadow: 0px 0px 0px 3px rgba(228,228,228,1);}
+#pos_search_top .form_search{
+padding: 0;
+position: relative;
+width: 100%;
+height: 44px;}
+/*  */
+#pos_search_top label{
+display: none;}
+#pos_search_top .form-control{
+padding: 0 50px 0 145px;
+border: 0;
+height: 44px;
+line-height: 44px;
+font-size: 13px;
+background: #fff;
+color: #464646;}
+#pos_search_top .form-control::-webkit-input-placeholder { /* WebKit browsers */
+color:    #464646;}
+#pos_search_top .form-control:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+color:    #464646;
+opacity:  1;}
+#pos_search_top .form-control::-moz-placeholder { /* Mozilla Firefox 19+ */
+color:    #464646;
+opacity:  1;}
+#pos_search_top .form-control:-ms-input-placeholder { /* Internet Explorer 10+ */
+color:    #464646;}
+/*  */
+#pos_search_top .submit_search{
+position: absolute;
+top: 0;
+right: 0;
+height: 44px;
+padding: 5px 20px 1px;
+font: 600 20px/36px 'Khula', sans-serif;
+background: #f06262;
+color: #fff;
+text-align: center;
+border: 0;
+border-bottom: 2px solid #ca3030;
+-webkit-border-radius: 1px;
+-moz-border-radius: 1px;
+border-radius: 1px;
+-webkit-box-shadow: 0px 0px 0px 3px rgba(228,228,228,1);
+-moz-box-shadow: 0px 0px 0px 3px rgba(228,228,228,1);
+box-shadow: 0px 0px 0px 3px rgba(228,228,228,1);
+-webkit-transition: all 300ms ease;
+-moz-transition: all 300ms ease;
+-ms-transition: all 300ms ease;
+-o-transition: all 300ms ease;
+transition: all 300ms ease;}
+#pos_search_top .submit_search:hover{
+background: #ffa200;
+border-color: #e68700;}
+/*  */
+#pos_search_top .form-group{
+position: absolute;
+top: 0;
+left: 0;
+width: 135px;}
+#pos_search_top .form-group .bootstrap-select{
+width: 135px;}
+#pos_search_top .form-group .bootstrap-select .btn.selectpicker{
+padding: 0 15px;
+border: 0;
+background: #fff;
+color: #464646;
+font: 700 13px/44px 'Khula', sans-serif;
+text-transform: uppercase;
+position: relative;}
+#pos_search_top .form-group .bootstrap-select .btn.selectpicker:after{
+content: "";
+position: absolute;
+top: 0;
+right: 0;
+width: 1px;
+height: 44px;
+background: #eeeeee;}
+#pos_search_top .form-group .bootstrap-select .btn-default .caret{
+font-family: 'FontAwesome';
+content: "\f0d7";
+border-top-color: #464646;}
+#pos_search_top .bootstrap-select.btn-group .btn .filter-option{
+text-overflow: ellipsis;
+white-space: nowrap;
+overflow: hidden;
+display: block;}
+@media (max-width: 360px){
+	#pos_search_top .form-control{
+	padding:  0 30px 0 125px;}
+	#pos_search_top .submit_search{
+	padding: 5px 5px 0;
+	font-weight: 400;
+	font-size: 15px;}
+	#pos_search_top .form-group,
+	#pos_search_top .form-group .bootstrap-select{
+	width: 115px;}
+	#pos_search_top .form-group .bootstrap-select .btn.selectpicker{
+	padding: 0 5px;
+	font-size: 12px;}
+}

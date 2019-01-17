@@ -1,0 +1,3 @@
+[2018-12-28 14:04:22] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 20579, sessionId: 5c2657943eb90, buyOrder: 1"}
+[2018-12-28 14:04:42] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 0, sessionId: 5c2657a91c6d7, buyOrder: "}
+[2018-12-28 14:05:56] [ERROR] ERROR: {"error":"Error al crear la transacci\u00f3n","detail":"No se ha creado la transacci\u00f3n para, amount: 32579, sessionId: 5c2657f2cbf56, buyOrder: 5"}

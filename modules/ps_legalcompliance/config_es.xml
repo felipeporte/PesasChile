@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_legalcompliance</name>
+    <displayName><![CDATA[Cumplimento normativo legal]]></displayName>
+    <version><![CDATA[3.0.1]]></version>
+    <description><![CDATA[Este m&oacute;dulo ayuda a los comerciantes a cumplir con las leyes aplicables al comercio electr&oacute;nico.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[administration]]></tab>
+	<confirmUninstall><![CDATA[¿Estás seguro que quieres desinstalar este módulo?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

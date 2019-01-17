@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/es/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/es/blog/feed.xml</link>
+    <description></description>
+    <language>es</language>
+     <atom:link href="https://www.prestashop.com/es/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>PrestaShop 1.7.5.0: ¡Ya están aquí las funcionalidades que esperabas!</title>
+    <link>https://www.prestashop.com/es/blog/funcionalidades-prestashop-1-7-5</link>
+    <description>¿Conoces todas las novedades que trae PrestaShop 1.7.5.0? ¡Hoy te la mostramos!</description>
+     <pubDate>Tue, 08 Jan 2019 10:35:37 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/funcionalidades-prestashop-1-7-5</guid>
+  </item>
+  <item>
+    <title>¿Qué son los KPI&amp;#039;s y cuáles son los más importantes para tu eCommerce?</title>
+    <link>https://www.prestashop.com/es/blog/los-10-kpis-que-todo-propietario-de-una-tienda-online-deberia-tener-vigilados</link>
+    <description>Conocer qué son los KPI’s y a cuáles hacerle seguimiento si tienes una tienda online es algo fundamental para lograr el éxito soñado a medio/largo plazo.</description>
+     <pubDate>Mon, 07 Jan 2019 10:51:09 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/los-10-kpis-que-todo-propietario-de-una-tienda-online-deberia-tener-vigilados</guid>
+  </item>
+  <item>
+    <title>¿Cómo gestionar la logística dentro de tu tienda PrestaShop?</title>
+    <link>https://www.prestashop.com/es/blog/gestione-la-logistica-de-su-tienda-online-desde-dentro</link>
+    <description>¿Eres consciente de la importancia de la logística en tu eCommerce pero no sabes cómo gestionarla?</description>
+     <pubDate>Wed, 19 Dec 2018 11:09:45 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/gestione-la-logistica-de-su-tienda-online-desde-dentro</guid>
+  </item>
+  <item>
+    <title>Tendencias SEO para 2019 ¡toma nota de lo que le espera a tu eCommerce!</title>
+    <link>https://www.prestashop.com/es/blog/tendencias-seo</link>
+    <description>¿Qué tendencias SEO tendremos en este nuevo año 2019?</description>
+     <pubDate>Tue, 18 Dec 2018 07:50:48 +0100</pubDate>
+ <dc:creator>JordiOrdoñez</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/tendencias-seo</guid>
+  </item>
+  <item>
+    <title>Tendencias Social Media para eCommerce que triunfarán en 2019</title>
+    <link>https://www.prestashop.com/es/blog/tendencias-social-media</link>
+    <description>¿Conoces ya cuáles serán las mejores tendencias en Social Media para 2019, de las que podrá aprovecharse las tiendas online?</description>
+     <pubDate>Mon, 17 Dec 2018 10:34:26 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/tendencias-social-media</guid>
+  </item>
+  <item>
+    <title>10 Mejores sistemas de almacenamiento en la nube gratis para tu negocio online</title>
+    <link>https://www.prestashop.com/es/blog/almacenamiento-en-la-nube-gratis</link>
+    <description>El almacenamiento en la nube se ha vuelto una herramienta fundamental para todo tipo de usuarios en Internet, ya sea que tengas una tienda online, como para cualquier otro negocio </description>
+     <pubDate>Sun, 16 Dec 2018 18:49:53 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/almacenamiento-en-la-nube-gratis</guid>
+  </item>
+  <item>
+    <title>¿Cómo gestionar las devoluciones en un eCommerce? 10 formas de reducirlas</title>
+    <link>https://www.prestashop.com/es/blog/10-formas-de-reducir-las-devoluciones-de-tu-tienda-online</link>
+    <description>¿Te agobia la gran cantidad de devoluciones que estás recibiendo últimamente en tu eCommerce?</description>
+     <pubDate>Fri, 14 Dec 2018 11:57:43 +0100</pubDate>
+ <dc:creator>Mariela Quiroga</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/10-formas-de-reducir-las-devoluciones-de-tu-tienda-online</guid>
+  </item>
+  <item>
+    <title>¿Qué es el Packaging y cómo influye en las ventas de tu negocio?</title>
+    <link>https://www.prestashop.com/es/blog/que-es-el-packaging</link>
+    <description>¿Te encuentras en pleno proceso de crear el packaging para tu producto y no sabes cómo empezar?</description>
+     <pubDate>Mon, 10 Dec 2018 11:39:41 +0100</pubDate>
+ <dc:creator>Jose Facchin</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/que-es-el-packaging</guid>
+  </item>
+  <item>
+    <title>¿Cómo optimizar la página del carrito de compra en tu tienda online?</title>
+    <link>https://www.prestashop.com/es/blog/carrito-de-compra</link>
+    <description>¿Te has parado analizar si la página del carrito de compra de tu eCommerce está verdaderamente optimizado para materializar las deseadas conversiones?</description>
+     <pubDate>Wed, 05 Dec 2018 09:48:21 +0100</pubDate>
+ <dc:creator>Ismael Ruiz</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/carrito-de-compra</guid>
+  </item>
+  <item>
+    <title>8 Mejores plantillas para tiendas de maquinaria y herramientas online en PrestaShop</title>
+    <link>https://www.prestashop.com/es/blog/modulos-herramientas-online</link>
+    <description>¿Estás pensando en montar una tienda de maquinaria agrícola y herramientas online a modo de repuestos?
+¿No sabes que plantilla te conviene más?</description>
+     <pubDate>Mon, 03 Dec 2018 14:37:05 +0100</pubDate>
+ <dc:creator>Mariano Larrazábal</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/es/blog/modulos-herramientas-online</guid>
+  </item>
+  </channel>
+</rss>

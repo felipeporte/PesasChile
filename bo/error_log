@@ -1,0 +1,211 @@
+[24-Dec-2018 13:54:05 America/Santiago] PHP Warning:  implode(): Invalid arguments passed in /home/globalfitgroup/pesaschile.cl/full/modules/poslistcateproduct/poslistcateproduct.php on line 626
+[27-Dec-2018 12:14:51 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 210. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[27-Dec-2018 12:15:36 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 210. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[27-Dec-2018 12:26:18 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 210. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[27-Dec-2018 12:28:48 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 210. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[27-Dec-2018 12:29:27 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 210. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[27-Dec-2018 12:29:34 America/Chicago] PHP Warning:  Unknown: Input variables exceeded 210. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[27-Dec-2018 21:08:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[27-Dec-2018 21:08:27 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[27-Dec-2018 23:02:43 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:06:11 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:06:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:06:25 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:06:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:06:31 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:06:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:45:00 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 14:59:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 15:36:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 15:36:26 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 16:39:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 16:39:15 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 16:47:11 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 16:47:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:00:42 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:00:46 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:24:51 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:24:54 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:50:21 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:50:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:51:09 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:51:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:53:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:53:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:54:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:55:05 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 17:55:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 18:20:30 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 18:20:33 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[28-Dec-2018 21:04:19 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[29-Dec-2018 21:04:14 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 11:16:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 11:50:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 12:01:45 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 12:01:53 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 12:04:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 12:04:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 12:32:58 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 12:33:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 13:30:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 13:31:07 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 15:55:15 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 16:33:47 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 17:18:36 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 18:17:15 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 19:30:54 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 20:53:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 20:53:31 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 20:53:33 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[31-Dec-2018 20:53:36 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 01:04:46 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 01:04:49 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 01:04:52 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 01:05:32 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 01:41:15 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:06:30 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:06:40 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:06:52 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:07:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:07:16 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:07:18 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:57:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:57:18 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:58:11 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:58:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 12:58:15 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 13:58:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 13:58:45 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 13:58:48 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 13:59:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:18:03 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:38:18 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:38:21 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:39:48 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:51:11 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:51:20 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:51:27 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 14:51:30 America/Santiago] PHP Warning:  require(/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getAnnotations_CacheService.php): failed to open stream: No such file or directory in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 14:51:30 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getAnnotations_CacheService.php' (include_path='/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear_exception:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/console_getopt:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear-core-minimal/src:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/archive_tar:.:/usr/lib/php:/usr/local/lib/php') in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 14:51:30 America/Santiago] PHP Warning:  require(/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getPrestashop_AccessDenied_ListenerService.php): failed to open stream: No such file or directory in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 14:51:30 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getPrestashop_AccessDenied_ListenerService.php' (include_path='/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear_exception:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/console_getopt:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear-core-minimal/src:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/archive_tar:.:/usr/lib/php:/usr/local/lib/php') in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 14:51:32 America/Santiago] PHP Warning:  require(/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getSecurity_Authentication_Listener_Anonymous_MainService.php): failed to open stream: No such file or directory in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 14:51:32 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getSecurity_Authentication_Listener_Anonymous_MainService.php' (include_path='/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear_exception:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/console_getopt:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear-core-minimal/src:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/archive_tar:.:/usr/lib/php:/usr/local/lib/php') in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 14:51:32 America/Santiago] PHP Warning:  require(/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getPrestashop_AccessDenied_ListenerService.php): failed to open stream: No such file or directory in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 14:51:32 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getPrestashop_AccessDenied_ListenerService.php' (include_path='/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear_exception:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/console_getopt:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear-core-minimal/src:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/archive_tar:.:/usr/lib/php:/usr/local/lib/php') in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 15:37:42 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 15:37:46 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 15:37:50 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 15:37:55 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 15:38:00 America/Santiago] PHP Warning:  require(/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getAnnotations_CacheService.php): failed to open stream: No such file or directory in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 15:38:00 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getAnnotations_CacheService.php' (include_path='/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear_exception:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/console_getopt:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear-core-minimal/src:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/archive_tar:.:/usr/lib/php:/usr/local/lib/php') in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 15:38:00 America/Santiago] PHP Warning:  require(/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getPrestashop_AccessDenied_ListenerService.php): failed to open stream: No such file or directory in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 15:38:00 America/Santiago] PHP Fatal error:  require(): Failed opening required '/home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/getPrestashop_AccessDenied_ListenerService.php' (include_path='/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear_exception:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/console_getopt:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/pear-core-minimal/src:/home/globalfitgroup/pesaschile.cl/full/vendor/pear/archive_tar:.:/usr/lib/php:/usr/local/lib/php') in /home/globalfitgroup/pesaschile.cl/full/var/cache/prod/ContainerOgxfr6p/appProdProjectContainer.php on line 1147
+[01-Jan-2019 15:38:26 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 15:38:30 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 17:02:01 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[01-Jan-2019 17:02:46 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[02-Jan-2019 00:07:44 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[02-Jan-2019 11:54:57 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[02-Jan-2019 13:12:49 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[02-Jan-2019 13:15:02 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[02-Jan-2019 13:40:40 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[02-Jan-2019 13:45:41 America/Santiago] PHP Warning:  implode(): Invalid arguments passed in /home/globalfitgroup/pesaschile.cl/full/modules/poslistcateproduct/poslistcateproduct.php on line 626
+[02-Jan-2019 13:46:00 America/Santiago] PHP Warning:  implode(): Invalid arguments passed in /home/globalfitgroup/pesaschile.cl/full/modules/poslistcateproduct/poslistcateproduct.php on line 626
+[02-Jan-2019 13:51:02 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[02-Jan-2019 13:59:21 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[03-Jan-2019 15:36:03 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[03-Jan-2019 16:29:09 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[03-Jan-2019 17:46:28 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[04-Jan-2019 23:55:01 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[04-Jan-2019 23:55:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[04-Jan-2019 23:55:18 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[04-Jan-2019 23:55:28 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[06-Jan-2019 13:33:31 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[06-Jan-2019 13:35:21 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[06-Jan-2019 13:35:35 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[06-Jan-2019 13:36:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[06-Jan-2019 13:36:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/full/classes/Country.php on line 155
+[08-Jan-2019 14:43:02 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 14:43:05 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 14:43:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 14:43:27 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 14:54:48 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 14:55:15 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[08-Jan-2019 15:08:22 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:09:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:00 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:12 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:13 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:17 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:17 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:20 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:21 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:10:30 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[08-Jan-2019 15:16:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:16:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:16:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:16:38 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:16:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:16:42 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:16:47 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[08-Jan-2019 15:26:01 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[08-Jan-2019 15:27:50 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[08-Jan-2019 15:34:26 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 12:19:38 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 13:26:13 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 13:28:12 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 13:28:21 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_Advertising in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_advertising/ps_advertising.php on line 33
+[09-Jan-2019 13:28:32 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_Advertising in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_advertising/ps_advertising.php on line 33
+[09-Jan-2019 13:28:41 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 13:33:46 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 14:16:19 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 15:44:58 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[09-Jan-2019 17:03:23 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:03:30 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:03:30 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:20:16 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:20:16 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:27:05 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:27:05 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:28:07 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:28:09 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:28:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:28:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:29:48 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:29:49 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:32:01 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:32:01 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:34:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:34:43 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:35:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:35:41 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:35:57 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[09-Jan-2019 17:35:59 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 12:55:10 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[10-Jan-2019 13:41:35 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[10-Jan-2019 13:42:18 America/Santiago] PHP Fatal error:  Cannot redeclare class Possearchproducts in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/possearchproducts/possearchproducts.php on line 7
+[10-Jan-2019 13:42:42 America/Santiago] PHP Fatal error:  Cannot redeclare class Possearchproducts in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/possearchproducts/possearchproducts.php on line 7
+[10-Jan-2019 13:45:26 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[10-Jan-2019 13:49:27 America/Santiago] PHP Fatal error:  Cannot redeclare class Possearchproducts in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/possearchproducts/possearchproducts.php on line 7
+[10-Jan-2019 14:04:41 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[10-Jan-2019 14:05:25 America/Santiago] PHP Fatal error:  Cannot redeclare class Possearchproducts in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/possearchproducts/possearchproducts.php on line 7
+[10-Jan-2019 14:05:48 America/Santiago] PHP Fatal error:  Cannot redeclare class Possearchproducts in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/possearchproducts/possearchproducts.php on line 7
+[10-Jan-2019 14:06:11 America/Santiago] PHP Fatal error:  Cannot redeclare class statsvisits in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/statsvisits/statsvisits.php on line 201
+[10-Jan-2019 14:06:25 America/Santiago] PHP Fatal error:  Cannot redeclare class Ps_ImageSlider in /home/globalfitgroup/pesaschile.cl/2/migrado/modules/ps_imageslider/ps_imageslider.php on line 39
+[10-Jan-2019 14:27:56 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 14:56:06 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 16:42:00 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 16:42:05 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 16:42:48 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 16:53:50 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 16:53:52 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 16:54:08 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[10-Jan-2019 16:56:29 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[11-Jan-2019 12:08:27 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[11-Jan-2019 16:46:27 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
+[11-Jan-2019 16:49:26 America/Santiago] PHP Warning:  Invalid argument supplied for foreach() in /home/globalfitgroup/pesaschile.cl/2/migrado/classes/Country.php on line 155
