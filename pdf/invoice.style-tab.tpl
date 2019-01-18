@@ -189,4 +189,13 @@
 	.small, table.small th, table.small td {
 		font-size:small;
 	}
+	h1.uppercase
+		{
+			text-transform: lowercase;
+		}
+		
+		h1.uppercase:first-letter
+		{
+			text-transform: uppercase;
+		}
 </style>

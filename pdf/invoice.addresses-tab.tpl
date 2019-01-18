@@ -31,18 +31,17 @@
                
 
 			{/if} 
-		        {$addresses.invoice->dni}<br/>	 
+			<span style="text-transform: uppercase;" >{$addresses.invoice->dni}<br/>	 
 		        {$addresses.invoice->firstname} {$addresses.invoice->lastname}<br/>
-			    {$addresses.invoice->address1} {State::getNameById({$addresses.invoice->id_state})}, {$addresses.invoice->city}<br/>
-			    {$addresses.invoice->phone}
-			
+			    {$addresses.invoice->address1}, {State::getNameById({$addresses.invoice->id_state})}<br/>
+				{$addresses.invoice->city}<br/>
+			    {$addresses.invoice->phone}</span>
 		</td>
-		<td width="50%"><span class="bold">Datos para Facturacion{* {l s='Billing Address' d='Shop.Pdf' pdf='true'} *}</span><br/><br/>
+		<td width="50%">
+{if $addresses.invoice->vat_number eq ''} {* {l s='Billing Address' d='Shop.Pdf' pdf='true'} *} {else} Datos para Facturacion <br/><br/> {/if}
 			{*	{$invoice_address} *}
-			{$addresses.invoice->vat_number}
-			{$addresses.invoice->company}
-			{$addresses.invoice->address2}
-			
+			<span style="text-transform: uppercase;" >{$addresses.invoice->vat_number}<br/>{$addresses.invoice->company}<br/>
+			{$addresses.invoice->address2}</span>
 		</td>
 	</tr>
 </table>
