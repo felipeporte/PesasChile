@@ -23,7 +23,7 @@
     <div class="form-group row">
       <div class="col-md-9 col-md-offset-3">
         <input name = "use_same_address" type = "checkbox" value = "1" {if $use_same_address} checked {/if}>
-        <label>{l s='Use this address for invoice too' d='Shop.Theme.Checkout'}</label>
+        <label>{*{l s='Use this address for invoice too' d='Shop.Theme.Checkout'}*}</label>
       </div>
     </div>
   {/if}
