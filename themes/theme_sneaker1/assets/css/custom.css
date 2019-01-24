@@ -12176,7 +12176,7 @@ div.star a:hover {
   font-size: 16px;
   font-weight: normal; }
   .product-information span {
-    text-transform: capitalize; }
+    text-transform:none; }
   .product-information .product-desc p {
     line-height: 25px;
     font-size: 14px;
