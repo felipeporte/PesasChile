@@ -34,7 +34,7 @@
 				</div>
 			{/block}
 			{block name='product_name'}
-				<h4><a href="{$product.url}" title="{$product.name}" itemprop="name" class="product_name">{$product.name|truncate:30:'...'}</a></h4>
+				<h4><a href="{$product.url}" title="{$product.name}" itemprop="name" class="product_name">{$product.name|truncate:80:'...'}</a></h4>
 			{/block}
 			{if isset($product.id_manufacturer)}
 			<div class="manufacturer"><a href="{$link->getManufacturerLink($product.id_manufacturer)}">{$product.manufacturer_name|strip_tags:'UTF-8'|escape:'html':'UTF-8'}</a></div>
