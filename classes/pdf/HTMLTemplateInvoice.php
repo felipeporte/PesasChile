@@ -84,14 +84,17 @@ class HTMLTemplateInvoiceCore extends HTMLTemplate
      *
      * @return array Layout elements columns size
      */
+    
+    
     protected function computeLayout($params)
     {
         $layout = array(
             'reference' => array(
                 'width' => 15,
             ),
+            /* Tamaño de la celda producto en la factura tamaño original 40 */
             'product' => array(
-                'width' => 40,
+                'width' => 36,
             ),
             'quantity' => array(
                 'width' => 8,
@@ -109,7 +112,8 @@ class HTMLTemplateInvoiceCore extends HTMLTemplate
 
         if (isset($params['has_discount']) && $params['has_discount']) {
             $layout['before_discount'] = array('width' => 0);
-            $layout['product']['width'] -= 7;
+           /* Resta al ancho de celda producto.. original -7 */
+            $layout['product']['width'] -= 4;
             $layout['reference']['width'] -= 3;
         }
 
